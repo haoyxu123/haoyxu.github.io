@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hugo Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Experience</title>
+      <link>http://example.org/post/data-science-experience/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/data-science-experience/</guid>
+      <description>Data Science Experience My passion for data analysis was honed during my undergraduate studies and further developed in graduate school. I am proficient in using R studio and Python to analyze data and have participated in many related projects in my past studies, such as analyzing the spread trend of COVID-19, the stickiness of customer credit cards, and the trend of Chicago&amp;rsquo;s population distribution. During my internship at Bosch, I used Python to help the company realize automated records of incoming and outgoing goods, as well as automatically track cargo transportation and automatically send emails to notify the logistics drivers of the factory.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://example.org/post/resume/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://example.org/post/resume/</guid>
+      <description>Self Introduction func main() { dogs := []Pet{ { Name: &amp;ldquo;Jujube&amp;rdquo;, Sex: &amp;ldquo;Female&amp;rdquo;, Intact: false, Age: &amp;ldquo;10 months&amp;rdquo;, Breed: &amp;ldquo;German Shepherd/Pitbull&amp;rdquo;, }, { Name: &amp;ldquo;Zephyr&amp;rdquo;, Sex: &amp;ldquo;Male&amp;rdquo;, Intact: true, Age: &amp;ldquo;13 years, 3 months&amp;rdquo;, Breed: &amp;ldquo;German Shepherd/Border Collie&amp;rdquo;, }, } } // end main&#xA;Resume overview In this post, you are welcome to download my resume for more details ! Download My Resume</description>
+    </item>
+    <item>
+      <title>About Hugo</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://example.org/about/</guid>
+      <description>Hugo is a static site engine written in Go.&#xA;It makes use of a variety of open source projects including:&#xA;Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.&#xA;Setup Some fun facts about Hugo:&#xA;Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+    </item>
+  </channel>
+</rss>
